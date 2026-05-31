@@ -24,3 +24,10 @@ contribution:
 - UI/front-end development
 - User documentation and training materials
 
+Student Name: Md Nazmus Sakib 
+Role:	DevOps & Deployment Engineer	- Cloud infrastructure setup (AWS EC2/Lambda)
+Contribution:
+- CI/CD pipeline configuration with GitHub Actions
+- Deployment to cloud (Task 10)
+- Environment configuration and infrastructure-as-code
+- Security and data privacy implementation (GDPR compliance)
