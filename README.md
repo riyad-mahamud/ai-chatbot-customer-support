@@ -23,3 +23,4 @@ contribution:
 - Gantt chart creation and task interdependencies (Section 3.3)
 - UI/front-end development
 - User documentation and training materials
+
